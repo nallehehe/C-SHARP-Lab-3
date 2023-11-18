@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "text": "In 1768, Captain James Cook set out to explore which ocean?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": 2,
+    "text": "What is actually electricity?",
+    "options": ["A flow of water", "A flow of air", "A flow of electrons"],
+    "correctAnswer": "A flow of electrons"
+  },
+  {
+    "id": 3,
+    "text": "Which of the following is not an international organisation?",
+    "options": ["FIFA", "NATO", "FBI"],
+    "correctAnswer": "FBI"
+  },
+  {
+    "id": 4,
+    "text": "Which of the following disorders is the fear of being alone?",
+    "options": ["Agoraphobia", "Aerophobia", "Acrophobia"],
+    "correctAnswer": "Agoraphobia"
+  },
+  {
+    "id": 5,
+    "text": "Which of the following is a song by the German heavy metal band 'Scorpions'?",
+    "options": ["Stairway to Heaven", "Wind of Change", "Don’t Stop Me Now"],
+    "correctAnswer": "Wind of Change"
+  },
+  {
+    "id": 6,
+    "text": "What is the speed of sound?",
+    "options": ["120 km/h", "1,200 km/h", "700 km/h"],
+    "correctAnswer": "700 km/h"
+  },
+  {
+    "id": 7,
+    "text": "Which is the easiest way to tell the age of many trees?",
+    "options": ["To measure the width of the tree", "To count the rings on the trunk", "To measure the height of the tree"],
+    "correctAnswer": "To count the rings on the trunk"
+  },
+  {
+    "id": 8,
+    "text": "What do we call a newly hatched butterfly?",
+    "options": ["A moth", "A caterpillar", "A chrysalis"],
+    "correctAnswer": "A caterpillar"
+  },
+  {
+    "id": 9,
+    "text": "In total, how many novels were written by the Bronte sisters?",
+    "options": ["4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 10,
+    "text": "Which did Viking people use as money?",
+    "options": ["Rune stones", "Jewellery", "Seal skins"],
+    "correctAnswer": "Jewellery"
+  },
+  {
+    "id": 11,
+    "text": "What was the first country to use tanks in combat during World War I?",
+    "options": ["France", "Japan", "Britain"],
+    "correctAnswer": "Britain"
+  },
+  {
+    "id": 12,
+    "text": "What is the main component of the sun?",
+    "options": ["Gas", "Molten iron", "Rock"],
+    "correctAnswer": "Gas"
+  },
+  {
+    "id": 13,
+    "text": "Goulash is a type of beef soup in which country?",
+    "options": ["Hungary", "Czech Republic", "Ireland"],
+    "correctAnswer": "Hungary"
+  },
+  {
+    "id": 14,
+    "text": "Which two months are named after Emperors of the Roman Empire?",
+    "options": ["January and February", "May and June", "July and August"],
+    "correctAnswer": "July and August"
+  },
+  {
+    "id": 15,
+    "text": "Which of the following animals can run the fastest?",
+    "options": ["Cheetah", "Tiger", "Lion"],
+    "correctAnswer": "Cheetah"
+  },
+  {
+    "id": 16,
+    "text": "Where did the powers of Spiderman come from?",
+    "options": ["He was bitten by a radioactive spider", "He went through a scientific experiment", "He woke up with them after a dream"],
+    "correctAnswer": "He was bitten by a radioactive spider"
+  },
+  {
+    "id": 17,
+    "text": "What is the most points that a player can score with a single throw in darts?",
+    "options": ["20", "40", "60"],
+    "correctAnswer": "60"
+  },
+  {
+    "id": 18,
+    "text": "In the United States, football is called soccer. So what is American football called in the United Kingdom?",
+    "options": ["Rugby", "American football", "Handball"],
+    "correctAnswer": "American football"
+  },
+  {
+    "id": 19,
+    "text": "Which of the following actors was the first one to play James Bond?",
+    "options": ["Roger Moore", "Sean Connery", "George Lazenby"],
+    "correctAnswer": "Sean Connery"
+  },
+  {
+    "id": 20,
+    "text": "Which of the following songs was the top-selling hit in 2019?",
+    "options": ["Old Town Road", "I Don’t Care", "Bad Guy"],
+    "correctAnswer": "Bad Guy"
+  },
+  {
+    "id": 21,
+    "text": "In which country is Transylvania?",
+    "options": ["Romania", "Croatia", "Serbia"],
+    "correctAnswer": "Romania"
+  },
+  {
+    "id": 22,
+    "text": "Which football club does Jordan Henderson play for?",
+    "options": ["Liverpool", "Manchester City", "Tottenham Hotspur"],
+    "correctAnswer": "Liverpool"
+  },
+  {
+    "id": 23,
+    "text": "The two biggest exporters of beers in Europe are Germany and …",
+    "options": ["France", "Italy", "Belgium"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": 24,
+    "text": "The phrase: ”I think, therefore I am” was coined by which philosopher?",
+    "options": ["Plato", "Aristotle", "Descartes"],
+    "correctAnswer": "Descartes"
+  },
+  {
+    "id": 25,
+    "text": "In the series “Game of Thrones”, Winterfell is the ancestral home of which family?",
+    "options": ["The Starks", "The Tully’s", "The Targaryens"],
+    "correctAnswer": "The Starks"
+  },
+  {
+    "id": 26,
+    "text": "Who is known as the Patron Saint of Spain?",
+    "options": ["St Benedict", "St James", "St John"],
+    "correctAnswer": "St James"
+  },
+  {
+    "id": 27,
+    "text": "What does the term “SOS” commonly stand for?",
+    "options": ["Save Our Ship", "Save Our Seal", "Save Our Souls"],
+    "correctAnswer": "Save Our Ship"
+  },
+  {
+    "id": 28,
+    "text": "Which company is known for publishing the Mario video game?",
+    "options": ["Nintendo", "SEGA", "Electronic Arts"],
+    "correctAnswer": "Nintendo"
+  },
+  {
+    "id": 29,
+    "text": "We often use sodium bicarbonate in the kitchen. What is its other name?",
+    "options": ["Sugar", "Salt", "Baking soda"],
+    "correctAnswer": "Baking soda"
+  },
+  {
+    "id": 30,
+    "text": "Which was the first film by Disney to be produced in colour?",
+    "options": ["Snow White and the Seven Dwarfs", "Cinderella", "Sleeping Beauty"],
+    "correctAnswer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "id": 31,
+    "text": "What is the name of the first book of the Old Testament in the Bible?",
+    "options": ["Genesis", "Proverbs", "Matthew"],
+    "correctAnswer": "Genesis"
+  },
+  {
+    "id": 32,
+    "text": "Neil Armstrong was the first astronaut in the world to step foot on the moon. Who was the second?",
+    "options": ["James Irwin", "Alan Bean", "Buzz Aldrin"],
+    "correctAnswer": "Buzz Aldrin"
+  },
+  {
+    "id": 33,
+    "text": "How many time zones are there in total in the world?",
+    "options": ["16", "24", "32"],
+    "correctAnswer": "24"
+  },
+  {
+    "id": 34,
+    "text": "What is the rarest type of blood in the human body?",
+    "options": ["AB negative", "O positive", "B negative"],
+    "correctAnswer": "AB negative"
+  },
+  {
+    "id": 35,
+    "text": "Cu is the chemical symbol for which element?",
+    "options": ["Copper", "Zinc", "Helium"],
+    "correctAnswer": "Copper"
+  }
+]
