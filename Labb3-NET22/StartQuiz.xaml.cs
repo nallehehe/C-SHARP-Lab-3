@@ -114,4 +114,11 @@ public partial class StartQuiz : Window
     {
 
     }
+
+    private void ExitQuiz_Click(object sender, RoutedEventArgs e)
+    {
+        MainWindow win2 = new MainWindow();
+        win2.Show();
+        this.Close();
+    }
 }
